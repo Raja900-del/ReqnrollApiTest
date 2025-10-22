@@ -1,7 +1,6 @@
-### 1. What is this repository about?
-> “I’ve built a working Reqnroll BDD framework using RestSharp and Microsoft Dependency Injection. The full code is public on my GitHub — may I walk you through the structure?”
+# Reqnroll + RestSharp BDD Template (C# .NET, Microsoft DI)
 
-That’s a strong portfolio answer.
+Lightweight API test framework using Reqnroll (SpecFlow successor) with NUnit, RestSharp HTTP client, and Microsoft.Extensions.DependencyInjection. Includes example feature, step definitions, and DI bootstrap.
 
 
 # Reqnroll + RestSharp BDD Template
